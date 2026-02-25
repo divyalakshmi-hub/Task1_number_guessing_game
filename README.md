@@ -1,4 +1,3 @@
-# Task1_number_guessing_game
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
